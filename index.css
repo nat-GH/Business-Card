@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+.card-header {
+    background-image: url(./imagens/backgorund.png);
+    width: 25rem;
+    height: 12.5rem;
+    background-size: cover;
+    font-family: 'Zilla Slab', serif;
+    padding: .0625rem 1.25rem;
+    margin: auto;
+    margin-top: 10%;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.title {
+    font-size: 1.25rem;
+}
+
+
+.img-intagram {
+    list-style-image: url(./imagens/Insta.png);
+    color: #000;
+    font-size: .9375rem;
+    text-transform: uppercase;
+}
+
+
+.img-twitter {
+    list-style-image: url(./imagens/Twitter.png);
+    color: #000;
+    font-size: .9375rem;
+    text-transform: uppercase;
+}
+
+.img-youtube {
+    list-style-image: url(./imagens/Youtube.png);
+    color: #000;
+    font-size: .9375rem;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
